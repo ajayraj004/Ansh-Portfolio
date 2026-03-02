@@ -1,4 +1,4 @@
-# 🚀 Ajay Raj – Portfolio Website
+# 🚀 Ansh Sharma – Portfolio Website
 
 A modern developer portfolio built using **React + TypeScript + Vite + Tailwind CSS**.
 
@@ -8,7 +8,7 @@ Deployed automatically to **AWS S3** using **GitHub Actions CI/CD**.
 
 ## 🌐 Live Demo
 
-🔗 [View Live Portfolio](http://ajay-portfolio-vite.s3-website-us-east-1.amazonaws.com)
+🔗 [View Live Portfolio](http://ansh-portfolio-vite.s3-website-us-east-1.amazonaws.com)
 
 ---
 
@@ -46,7 +46,7 @@ Deployed automatically to **AWS S3** using **GitHub Actions CI/CD**.
 Clone the repository:
 
 ```bash
-git clone https://github.com/ajayraj004/CICD-Portfolio-New.git
+git clone https://github.com/ajayraj004/Ansh-Portfolio.git
 cd your-repo-name
 
 Install dependencies:
@@ -94,7 +94,7 @@ S3_BUCKET
 
 If you'd like to collaborate or discuss opportunities:
 
-LinkedIn: https://www.linkedin.com/in/ajayraj004/
+LinkedIn: https://www.linkedin.com/in/ansh-sharma-6595a82b3/
 
 Email: ajayrajospf@gmail.com
 

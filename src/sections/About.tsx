@@ -82,12 +82,12 @@ const About = () => {
   }, []);
 
   const aboutText =
-    "I'm a B.Tech 3rd Year student passionate about cloud computing and DevOps. With 4 AWS certifications including Solutions Architect and Developer Associate, I bring solid expertise in designing and implementing scalable cloud infrastructure. My technical toolkit includes Docker, Kubernetes, Jenkins, and Terraform for building robust CI/CD pipelines. I love solving complex infrastructure challenges and automating deployment processes to help teams ship faster and more reliably.";
+    "Backend and Android Developer with hands-on experience building scalable real-time systems using Spring Boot, Jetpack Compose, WebSockets, and JWT authentication. Strong foundation in Clean Architecture, MVVM/MVI, and RESTful APIs.Proficient in Java, Kotlin, and Data Structures & Algorithms (250+ LeetCode problems solved).";
 
   const stats = [
     {
       icon: Award,
-      value: '4+',
+      value: '1',
       label: 'AWS Certifications',
       color: 'from-purple to-purple-dark',
     },

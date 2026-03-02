@@ -105,7 +105,7 @@ const Hero = () => {
     }
   };
 
-  const nameChars = 'Ajay Raj'.split('');
+  const nameChars = 'Ansh Sharma'.split('');
 
   return (
     <section
@@ -163,14 +163,13 @@ const Hero = () => {
 
             {/* Role */}
             <h2 className="hero-role text-2xl sm:text-3xl lg:text-4xl font-poppins font-semibold text-white/90 mb-6">
-              Cloud Engineer &{' '}
-              <span className="gradient-text">DevOps Specialist</span>
+              Crafting Exceptional &{' '}
+              <span className="gradient-text">Android Experiences</span>
             </h2>
 
             {/* Description */}
             <p className="hero-desc text-lg text-white/60 max-w-xl mx-auto lg:mx-0 mb-8">
-              B.Tech 3rd Year Student passionate about building scalable cloud infrastructure 
-              and automating deployment pipelines. AWS Certified with expertise in modern DevOps practices.
+              B.Tech 3rd Year Student passionate about building scalable real-time systems using SpringBoot, Jetpack Compose, WebSockets, and JWT authentication.
             </p>
 
             {/* CTA Buttons */}
@@ -197,7 +196,7 @@ const Hero = () => {
             {/* Social Links */}
             <div className="flex gap-4 justify-center lg:justify-start">
               <a
-                href="https://github.com/ajayraj004"
+                href="https://github.com/anshq31"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hero-social p-3 bg-white/5 hover:bg-purple/20 rounded-full transition-all duration-300 hover:scale-110"
@@ -206,7 +205,7 @@ const Hero = () => {
                 <Github size={20} className="text-white/70 hover:text-purple" />
               </a>
               <a
-                href="https://www.linkedin.com/in/ajayraj004/"
+                href="https://www.linkedin.com/in/ansh-sharma-6595a82b3/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hero-social p-3 bg-white/5 hover:bg-purple/20 rounded-full transition-all duration-300 hover:scale-110"
@@ -215,7 +214,7 @@ const Hero = () => {
                 <Linkedin size={20} className="text-white/70 hover:text-purple" />
               </a>
               <a
-                href="mailto:ajayrajospf@gmail.com"
+                href="mailto:ansh1jan2005@gmail.com"
                 className="hero-social p-3 bg-white/5 hover:bg-purple/20 rounded-full transition-all duration-300 hover:scale-110"
                 aria-label="Email"
               >
@@ -245,14 +244,14 @@ const Hero = () => {
 
               {/* Floating badges */}
               <div className="absolute -top-4 -right-4 px-4 py-2 bg-purple/20 backdrop-blur-sm rounded-full border border-purple/30 animate-float">
-                <span className="text-sm font-medium text-purple">AWS Certified</span>
+                <span className="text-sm font-medium text-purple">Java</span>
               </div>
               
               <div
                 className="absolute -bottom-4 -left-4 px-4 py-2 bg-white/10 backdrop-blur-sm rounded-full border border-white/20 animate-float"
                 style={{ animationDelay: '1s' }}
               >
-                <span className="text-sm font-medium text-white">4+ Certs</span>
+                <span className="text-sm font-medium text-white">Kotlin</span>
               </div>
             </div>
           </div>

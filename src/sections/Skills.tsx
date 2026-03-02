@@ -78,39 +78,39 @@ const Skills = () => {
 
   const skillCategories = [
     {
-      name: 'Cloud',
+      name: '•Languages',
       skills: [
-        { name: 'AWS', icon: Cloud, level: 90 },
-        { name: 'EC2', icon: Server, level: 85 },
-        { name: 'S3', icon: Database, level: 88 },
-        { name: 'Lambda', icon: Code2, level: 80 },
+        { name: 'Java', icon: Cloud, level: 90 },
+        { name: 'kotlin', icon: Server, level: 85 },
+        { name: 'c', icon: Database, level: 88 },
+        { name: 'dart', icon: Code2, level: 80 },
       ],
     },
     {
-      name: 'DevOps',
+      name: 'Frontend',
       skills: [
-        { name: 'Docker', icon: Container, level: 92 },
-        { name: 'Kubernetes', icon: Box, level: 85 },
-        { name: 'Jenkins', icon: Workflow, level: 88 },
-        { name: 'CI/CD', icon: GitBranch, level: 90 },
+        { name: 'Jetpack', icon: Container, level: 92 },
+        { name: 'compose', icon: Box, level: 85 },
+        { name: 'XML', icon: Workflow, level: 88 },
+        { name: 'flutter', icon: GitBranch, level: 90 },
       ],
     },
     {
-      name: 'Web Dev',
+      name: 'Backend',
       skills: [
-        { name: 'React', icon: Code2, level: 85 },
-        { name: 'Node.js', icon: Server, level: 82 },
-        { name: 'Python', icon: Terminal, level: 88 },
-        { name: 'TypeScript', icon: Code2, level: 80 },
+        { name: 'Spring framewor', icon: Code2, level: 85 },
+        { name: 'Jwt authentication', icon: Server, level: 82 },
+        { name: 'Rest APIs', icon: Terminal, level: 88 },
+        { name: 'WebSockets', icon: Code2, level: 80 },
       ],
     },
     {
       name: 'Tools',
       skills: [
-        { name: 'Terraform', icon: Settings, level: 85 },
-        { name: 'Git', icon: GitBranch, level: 90 },
-        { name: 'Linux', icon: Terminal, level: 88 },
-        { name: 'Nginx', icon: Server, level: 78 },
+        { name: 'Android Studio', icon: Settings, level: 85 },
+        { name: 'GitHub', icon: GitBranch, level: 90 },
+        { name: 'Postman', icon: Terminal, level: 88 },
+        { name: 'GitLab', icon: Server, level: 78 },
       ],
     },
   ];
@@ -135,8 +135,8 @@ const Skills = () => {
             Technical <span className="gradient-text">Skills</span>
           </h2>
           <p className="skills-heading text-white/60 max-w-2xl mx-auto">
-            Proficient in modern cloud technologies and DevOps practices, with hands-on experience
-            in building scalable infrastructure and automated deployment pipelines.
+            Proficient in modern apps technologies and Backend practices, with hands-on experience
+            in building scalable apps and automated deployment pipelines.
           </p>
         </div>
 

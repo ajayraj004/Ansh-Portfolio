@@ -59,7 +59,7 @@ const Navigation = () => {
               }}
               className="nav-item text-xl font-poppins font-bold gradient-text"
             >
-              Ajay Raj
+              Ansh Sharma
             </a>
 
             {/* Desktop Navigation */}

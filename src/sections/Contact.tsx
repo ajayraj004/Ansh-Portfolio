@@ -96,14 +96,14 @@ const Contact = () => {
     {
       icon: Mail,
       label: 'Email',
-      value: 'ajayraj@gmail.com',
-      href: 'mailto:ajayraj@gmail.com',
+      value: 'ansh1jan2005@gmail.com',
+      href: 'mailto:ansh1jan2005@gmail.com',
     },
     {
       icon: Phone,
       label: 'Phone',
-      value: '+91 7535804268',
-      href: 'tel:+75358042680',
+      value: '+91 9044134665',
+      href: 'tel:+9044134665',
     },
     {
       icon: MapPin,
@@ -114,9 +114,9 @@ const Contact = () => {
   ];
 
   const socialLinks = [
-    { icon: Github, href: 'https://github.com/ajayraj004', label: 'GitHub' },
-    { icon: Linkedin, href: 'https://www.linkedin.com/in/ajayraj004/', label: 'LinkedIn' },
-    { icon: Twitter, href: 'https://x.com/AjayRaj17793923', label: 'Twitter' },
+    { icon: Github, href: 'https://github.com/anshq31', label: 'GitHub' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/ansh-sharma-6595a82b3/', label: 'LinkedIn' },
+    { icon: Twitter, href: 'https://x.com/', label: 'Twitter' },
   ];
 
   return (

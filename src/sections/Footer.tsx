@@ -29,10 +29,10 @@ const Footer = () => {
     {
       title: 'Connect',
       links: [
-        { name: 'GitHub', href: 'https://github.com/ajayraj004' },
-        { name: 'LinkedIn', href: 'https://www.linkedin.com/in/ajayraj004/' },
-        { name: 'Twitter', href: 'https://x.com/AjayRaj17793923' },
-        { name: 'Email', href: 'mailto:ajayraj@gmail.com' },
+        { name: 'GitHub', href: 'https://github.com/anshq31' },
+        { name: 'LinkedIn', href: 'https://www.linkedin.com/in/ansh-sharma-6595a82b3/' },
+        { name: 'Twitter', href: 'https://x.com/' },
+        { name: 'Email', href: 'mailto:ansh1jan2005@gmail.com' },
       ],
     },
   ];
@@ -48,7 +48,7 @@ const Footer = () => {
               Ajay Raj
             </a>
             <p className="text-white/60 mb-6 max-w-sm">
-              Cloud Engineer & DevOps Specialist passionate about building scalable infrastructure and automating deployment pipelines.
+              Crafting Exceptional & Android Experiences
             </p>
             <div className="flex items-center gap-2 text-sm text-white/50">
               <span>Made with</span>
@@ -91,7 +91,7 @@ const Footer = () => {
         <div className="max-w-7xl mx-auto px-6 lg:px-8 py-6">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <p className="text-white/50 text-sm text-center sm:text-left">
-              {currentYear} Ajay Raj. All rights reserved.
+              {currentYear} Ansh Sharma. All rights reserved.
             </p>
 
             {/* Back to Top */}
