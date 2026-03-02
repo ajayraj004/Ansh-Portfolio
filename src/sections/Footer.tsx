@@ -45,7 +45,7 @@ const Footer = () => {
           {/* Brand Column */}
           <div className="lg:col-span-2">
             <a href="#home" className="text-2xl font-poppins font-bold gradient-text mb-4 block">
-              Ajay Raj
+              Ansh Sharma
             </a>
             <p className="text-white/60 mb-6 max-w-sm">
               Crafting Exceptional & Android Experiences
